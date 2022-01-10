@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a2c4659-0262-4776-9328-8efd110b64e6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/SomeClass.java" afterPath="$PROJECT_DIR$/src/main/java/com/SomeClass.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -296,7 +294,7 @@
       <workItem from="1640704338579" duration="2418000" />
       <workItem from="1640858747670" duration="17000" />
       <workItem from="1640943629173" duration="4408000" />
-      <workItem from="1641808251383" duration="449000" />
+      <workItem from="1641808251383" duration="488000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1640704653881</created>
@@ -305,11 +303,18 @@
       <option name="project" value="LOCAL" />
       <updated>1640704653881</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <created>1641808716016</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1641808716016</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7292000" />
+    <option name="totallyTimeSpent" value="7331000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1440" height="824" extended-state="6" />
