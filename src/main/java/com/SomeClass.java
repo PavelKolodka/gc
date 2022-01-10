@@ -1,7 +1,7 @@
 package com;
 
 public class SomeClass {
-    public String getSomeString(){
+    public static String getSomeString(){
         return "some string";
     };
 }
