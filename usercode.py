@@ -13,3 +13,6 @@ def handle(data):
     }
 
     return data
+
+def func():
+    return "hello from func"
