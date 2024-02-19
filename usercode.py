@@ -1,5 +1,6 @@
 import urllib.request
 import json
+import test
 
 def handle(data):
     req = urllib.request.Request("https://reqres.in/api/users?page=1", method="GET")
@@ -14,5 +15,8 @@ def handle(data):
 
     return data
 
+def testfunc():
+    return test.func()
+
 def func():
-    return "hello from func"
+    return "hello"
